@@ -13,6 +13,8 @@
 		E60615832C751C2F001FDBC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E60615822C751C2F001FDBC0 /* Preview Assets.xcassets */; };
 		E606158A2C751C70001FDBC0 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E60615892C751C70001FDBC0 /* TextBootcamp.swift */; };
 		E606158C2C75242C001FDBC0 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E606158B2C75242C001FDBC0 /* ShapesBootcamp.swift */; };
+		E6B5D1492C75D17F002E3749 /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */; };
+		E6B5D14B2C75DE3D002E3749 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		E60615822C751C2F001FDBC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E60615892C751C70001FDBC0 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		E606158B2C75242C001FDBC0 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
+		E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				E606157D2C751C2E001FDBC0 /* ContentView.swift */,
 				E60615892C751C70001FDBC0 /* TextBootcamp.swift */,
 				E606158B2C75242C001FDBC0 /* ShapesBootcamp.swift */,
+				E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */,
+				E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */,
 				E606157F2C751C2F001FDBC0 /* Assets.xcassets */,
 				E60615812C751C2F001FDBC0 /* Preview Content */,
 			);
@@ -143,6 +149,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6B5D14B2C75DE3D002E3749 /* GradientsBootcamp.swift in Sources */,
+				E6B5D1492C75D17F002E3749 /* ColorsBootCamp.swift in Sources */,
 				E606158C2C75242C001FDBC0 /* ShapesBootcamp.swift in Sources */,
 				E606157E2C751C2E001FDBC0 /* ContentView.swift in Sources */,
 				E606158A2C751C70001FDBC0 /* TextBootcamp.swift in Sources */,
