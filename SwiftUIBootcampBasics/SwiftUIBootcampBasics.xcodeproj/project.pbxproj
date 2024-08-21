@@ -16,6 +16,7 @@
 		E6B5D1492C75D17F002E3749 /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */; };
 		E6B5D14B2C75DE3D002E3749 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */; };
 		E6B5D14D2C75E641002E3749 /* SystemIconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D14C2C75E641002E3749 /* SystemIconsBootcamp.swift */; };
+		E6B5D14F2C7606B6002E3749 /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D14E2C7606B6002E3749 /* ImagesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
 		E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		E6B5D14C2C75E641002E3749 /* SystemIconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIconsBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D14E2C7606B6002E3749 /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				E6B5D1482C75D17F002E3749 /* ColorsBootCamp.swift */,
 				E6B5D14A2C75DE3D002E3749 /* GradientsBootcamp.swift */,
 				E6B5D14C2C75E641002E3749 /* SystemIconsBootcamp.swift */,
+				E6B5D14E2C7606B6002E3749 /* ImagesBootcamp.swift */,
 				E606157F2C751C2F001FDBC0 /* Assets.xcassets */,
 				E60615812C751C2F001FDBC0 /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				E6B5D14B2C75DE3D002E3749 /* GradientsBootcamp.swift in Sources */,
 				E6B5D1492C75D17F002E3749 /* ColorsBootCamp.swift in Sources */,
+				E6B5D14F2C7606B6002E3749 /* ImagesBootcamp.swift in Sources */,
 				E6B5D14D2C75E641002E3749 /* SystemIconsBootcamp.swift in Sources */,
 				E606158C2C75242C001FDBC0 /* ShapesBootcamp.swift in Sources */,
 				E606157E2C751C2E001FDBC0 /* ContentView.swift in Sources */,
